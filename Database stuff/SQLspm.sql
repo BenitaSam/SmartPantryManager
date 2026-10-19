@@ -1,0 +1,10 @@
+INSERT INTO recipe_ingredients (recipe_id, name, quantity, unit) VALUES
+(7,'potato',500,'g'),(7,'butter',30,'g'),(7,'milk',100,'ml'),(7,'salt',5,'g'),
+(8,'bread',2,'pcs'),(8,'cheese',40,'g'),(8,'butter',10,'g'),
+(9,'pasta',200,'g'),(9,'garlic',3,'pcs'),(9,'butter',30,'g'),(9,'salt',5,'g'),
+(10,'chicken',300,'g'),(10,'carrot',2,'pcs'),(10,'onion',1,'pcs'),(10,'garlic',2,'pcs'),(10,'oil',30,'ml'),(10,'salt',5,'g'),
+(11,'egg',3,'pcs'),(11,'spinach',50,'g'),(11,'onion',1,'pcs'),(11,'oil',15,'ml'),(11,'salt',5,'g'),
+(12,'potato',600,'g'),(12,'oil',45,'ml'),(12,'salt',5,'g'),(12,'garlic',2,'pcs'),
+(13,'tomato',6,'pcs'),(13,'onion',1,'pcs'),(13,'garlic',2,'pcs'),(13,'butter',20,'g'),(13,'salt',5,'g'),
+(14,'rice',200,'g'),(14,'cheese',100,'g'),(14,'tomato',2,'pcs'),(14,'onion',1,'pcs'),(14,'salt',5,'g'),
+(15,'bread',4,'pcs'),(15,'egg',2,'pcs'),(15,'milk',100,'ml'),(15,'sugar',15,'g'),(15,'butter',20,'g'),
